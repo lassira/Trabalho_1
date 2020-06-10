@@ -67,6 +67,7 @@ $$
 | Figura 2: Resposta ao sistema para um degrau unitário aplicado à malha-fechada.|
 
 - #####Gráfico de u(t):
+
 |![acao_controle_proporcional.png](acao_controle_proporcional.png)|
 | :--- |
 | Figura 3: Gráfico da ação de controle proporcional, com os valores máximos e mínimos indicados.|
