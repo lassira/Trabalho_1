@@ -1,4 +1,6 @@
 ## Trabalho_1
+Larissa Brandão Pasinato (115149)
+Henrique Danelli (166455)
 
 Trabalho 1 desenvolvido para a disciplina de Controle Automático II - Engenharia Elétrica. Abaixo estão os controladores utilizados:
 
