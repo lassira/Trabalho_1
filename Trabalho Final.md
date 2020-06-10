@@ -83,7 +83,7 @@ Ao final do projeto, pode-se perceber que, ao aplicar a ação de controle propo
 
 Uma alternativa de melhora para o sistema, no caso da ação proporcional, seria aumentar levemente o ganho de $K_p$, com a cautela de não ultrapassar o valor de $$$OS_d$$$ e de não saturar a ação de controle. Para tanto, inicialmente calculou-se o valor máximo de ganho possível a partir do diagrama de Routh-Hurwitz, conforme mostrado na Figura 4 abaixo.
 
-|![RH_proporcional.png](RH_proporcional.png)|
+|![RH_proporcional.PNG](RH_proporcional.PNG)|
 | :--- |
 | Figura 4: Diagrama de Routh-Hurwitz para o controlador proposto.|
 Ao realizar a simulação do controlador, verificou-se que a resposta do sistema ao degrau, quando aplicado o ganho máximo, torna-se marginalmente estável. Para tanto, decidiu-se manter o valor de $K_p$ abaixo de 10.26 e, ao realizar alguns testes via MATLAB, percebeu-se que, para manter a resposta do sistema dentro das especificações (nesse caso, $$$\%OS_d=20%$$$), o valor máximo de ganho ajustado deveria ser de $$$K_p=1.8$$$, exemplificado na Figura 5:
