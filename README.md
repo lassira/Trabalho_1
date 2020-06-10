@@ -1,5 +1,7 @@
 ## Trabalho_1
+
 Larissa Brandão Pasinato (115149)
+
 Henrique Danelli (166455)
 
 Trabalho 1 desenvolvido para a disciplina de Controle Automático II - Engenharia Elétrica. Abaixo estão os controladores utilizados:
@@ -13,4 +15,4 @@ Trabalho 1 desenvolvido para a disciplina de Controle Automático II - Engenhari
 7. Controlador por Avanço-Atraso de Fase (*Lead-Lag*)
 8. Controlador PID
 
-As imagens estão nos diretórios sinalizados com o nome de cada controlador. 
+As imagens estão nos diretórios sinalizados com o nome de cada controlador.
