@@ -68,7 +68,7 @@ $$
 
 - #####Gráfico de u(t):
 
-|![acao_controle_proporcional.png](acao_controle_proporcional.png)|
+|![acao_control_proporcional.png](acao_control_proporcional.png)|
 | :--- |
 | Figura 3: Gráfico da ação de controle proporcional, com os valores máximos e mínimos indicados.|
 
